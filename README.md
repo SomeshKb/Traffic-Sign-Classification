@@ -46,3 +46,7 @@ We started with downloading the dataset, preprocessing it, created the model and
     "Roundabout mandatory",
     "End of no passing",
     "End of no passing by vechiles over 3.5 metric"
+    
+### How to Run
+    streamlit run server.py
+
